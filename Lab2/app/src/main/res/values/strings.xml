@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="app_logo">Calculator app logo</string>
+    <string name="counter_zero">0</string>
+    <string name="subtract">-</string>
+    <string name="add">+</string>
+    <string name="reset">Reset</string>
+    <string name="step">Step</string>
+</resources>
